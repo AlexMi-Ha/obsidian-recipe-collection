@@ -15,7 +15,7 @@ Die Rezepte sind in **Karteiboxen** organisiert. Innerhalb jeder Box gibt es ver
 - Fleisch
 - Fisch
 - Beilagen
-- Veggie / Vegan
+- Veggie & Vegan
 - Suppen & Eintöpfe
 - Pasta & Reisgerichte
 - Mehlspeisen & Teigwaren (z. B. Pfannkuchen, Spätzle …)

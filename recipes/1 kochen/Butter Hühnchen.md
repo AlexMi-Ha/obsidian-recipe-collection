@@ -8,7 +8,7 @@ grouping: Fleisch
 prep_time: 20min
 cook_time: 30min
 servings: "2"
-source_url:
+source_url: Unbekannt
 last_modified: 2025-10-03
 ---
 # Butter Hühnchen
