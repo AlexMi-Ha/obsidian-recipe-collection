@@ -42,7 +42,7 @@ last_modified: 2025-10-03
 8. Soße für 2h leicht köcheln lassen und dann das Bündel und die Rinde wieder heraus fischen und würzen
 
 ## Hinweise
-- Auch wenn man Fenchel und Sellerie nicht mag ist das in dieser Soße echt bombastisch. Man schmeckt den danach echt überhaupt nicht mehr heraus. Er gibt dem ganzen aber einen intensiven Geschmack! 
+- Auch wenn man Fenchel und Sellerie nicht mag ist das in dieser Soße echt bombastisch.
 
 ## Versionshistory
 - 2025-10-03: Alex hat erstellt
