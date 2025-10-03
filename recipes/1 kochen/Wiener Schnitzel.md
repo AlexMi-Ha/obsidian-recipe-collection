@@ -24,8 +24,7 @@ last_modified: 2025-10-03
 ## Schritte
 1. Schnitzel mit einer Klarsichtfolie abdecken und mit der flachen Seite des Fleischklopfers von innen nach außen dünn klopfen.
 2. Panierstraße vorbereiten
-3. Schnitzel mit etwas Wasser beträufeln, mit Salz und Pfeffer würzen und durch die Straße gehen. 
-   WICHTIG: Panade **NICHT** an das Schnitzel drücken, sonst formt sie beim fritieren keine Blasen!
+3. Schnitzel mit etwas Wasser beträufeln, mit Salz und Pfeffer würzen und durch die Straße gehen. WICHTIG: Panade **NICHT** an das Schnitzel drücken
 4. Schnitzel in heißem Öl fritieren. Das Öl ist heiß genug, wenn bei einem Holzstäbchen im Öl kleine Bläschen aufsteigen
 5. Pfanne konstant schwenken während das Schnitzel drin ist, um einen guten Wellengang zu erzeugen, was Blasen in der Panade des Schnitzels bildet
 6. Das Schnitzel 2min pro Seite fritieren

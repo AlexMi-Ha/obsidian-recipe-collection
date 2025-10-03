@@ -28,7 +28,7 @@ last_modified: 2025-10-03
 5. Knödel für 20min kochen und dabei immer wieder wenden
 
 ## Hinweise
--  Servierbar mit Pilzrahmsauce
+-  Servierbar mit Pilzrahmsauce und Fleisch
   
 
 ## Versionshistory

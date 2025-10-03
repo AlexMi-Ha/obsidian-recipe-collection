@@ -25,7 +25,7 @@ Die Rezepte sind in **Karteiboxen** organisiert. Innerhalb jeder Box gibt es ver
 ### 🍞 Backen (Brot, Kuchen, Gebäck, Torten, Pizza-Teig …)
 
 - Brot & Semmeln
-- Hefe- & Kleingebäck
+- Kleingebäck
 - Kuchen
 - Torten
 - Kekse & Plätzchen

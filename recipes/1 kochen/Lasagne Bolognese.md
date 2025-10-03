@@ -5,8 +5,8 @@ tags:
   - Ofengerichte
 category: Kochen
 grouping: Ofengerichte
-prep_time:
-cook_time:
+prep_time: 25min
+cook_time: 3h
 servings: "4"
 source_url: https://youtu.be/vRNkwGy9i84?si=GslCSP3veB5gL0jf
 last_modified: 2025-10-03

@@ -28,6 +28,7 @@ last_modified: 2025-10-03
 
 ## Hinweise
   - Gut schließen, dass die Ravioli nicht auslaufen
+  - Servierbar mit einer Pilzrahmsauce oder Tomatensauce
 
 ## Versionshistory
 - 2025-10-03: Alex hat erstellt

@@ -23,7 +23,8 @@ last_modified: 2025-10-03
 2. Milch zugeben bis der Teig dünn genug ist
 3. Pfannkuchen nach und nach beidseitig braten
 
-## Hinweise  
+## Hinweise
+- Servierbar mit Spargel, Salamisauce oder Nutella und Marmelade
 
 ## Versionshistory
 - 2025-10-03: Alex hat erstellt
