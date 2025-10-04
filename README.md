@@ -30,7 +30,7 @@ Die Rezepte sind in **Karteiboxen** organisiert. Innerhalb jeder Box gibt es ver
 - Torten
 - Kekse & Plätzchen
 - Herzhaftes
-- Besonderes & Festliches
+- Festliches
 
 ### 🥫 Saucen & Basen (Dressings, Fonds, Marinaden, Dips, Pestos …)
 
