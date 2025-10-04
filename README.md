@@ -35,7 +35,7 @@ Die Rezepte sind in **Karteiboxen** organisiert. Innerhalb jeder Box gibt es ver
 ### 🥫 Saucen & Basen (Dressings, Fonds, Marinaden, Dips, Pestos …)
 
 - Grundsaucen & Fonds (z. B. Béchamel, Jus, Tomatensauce, Hühnerbrühe)
-- Dressings & Dips
+- Dressings, Glasuren & Dips
 - Marinaden & Rubs
 - Pestos & Pasten
 - Würzmischungen & Öle

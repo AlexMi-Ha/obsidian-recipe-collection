@@ -2,7 +2,7 @@
 title: Bisquitboden
 tags:
   - Backen
-  - Kuchen
+  - Torten
 category: Backen
 grouping: Torten
 prep_time: 15min
