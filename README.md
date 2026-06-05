@@ -62,6 +62,3 @@ Die Rezepte sind in **Karteiboxen** organisiert. Innerhalb jeder Box gibt es ver
 ---
 
 👉 Dieses Repository dient in erster Linie als **persönliche Sammlung** – es ist nicht als allgemeines Kochbuch gedacht, sondern als Grundlage für mein eigenes Karten-Rezept-System.
-
-
-TEst
