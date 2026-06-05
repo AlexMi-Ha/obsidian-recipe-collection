@@ -59,6 +59,7 @@ Die Rezepte sind in **Karteiboxen** organisiert. Innerhalb jeder Box gibt es ver
 - Mocktails
 - Besonderes (z. B. Glühwein, Bowle …)
 
+Test
 ---
 
 👉 Dieses Repository dient in erster Linie als **persönliche Sammlung** – es ist nicht als allgemeines Kochbuch gedacht, sondern als Grundlage für mein eigenes Karten-Rezept-System.
